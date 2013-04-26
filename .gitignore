@@ -1,0 +1,11 @@
+.bundle
+.sass-cache
+log
+/tmp
+app/assets/images
+
+config/database.yml
+
+*~
+*.swp
+*.lock
