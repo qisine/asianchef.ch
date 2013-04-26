@@ -4,6 +4,8 @@ log
 /tmp
 app/assets/images
 
+res/keys
+
 config/database.yml
 
 *~
