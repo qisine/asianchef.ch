@@ -16,12 +16,13 @@ gem 'carrierwave'
 gem 'rmagick'
 gem 'underscore-rails'
 gem 'backbone-rails'
+gem 'cancan'
 
 group :test do
-  gem "rspec"
 end
 
 group :development do
+  gem "rspec-rails"
   gem "faker"
   gem "factory_girl"
   gem 'jasmine'
